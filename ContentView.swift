@@ -97,8 +97,21 @@ struct NewResultView: View{
                             .stroke(Color.yellow, lineWidth: 5)
                     )
             }.padding()
+            NavigationLink(destination: ResultView(choice: "https://thepantry.ucdavis.edu/",choice2: "Free Food!")){
+                Text("Pantry").fontWeight(.bold)
+                    .font(.title)
+                    .padding(20)
+                    .background(Color.yellow)
+                    .cornerRadius(40)
+                    .foregroundColor(Color(hue: 0.663, saturation: 1.0, brightness: 1.0))
+                    .padding(5)
+                    .overlay(
+                        RoundedRectangle(cornerRadius: 40)
+                            .stroke(Color.yellow, lineWidth: 5)
+                    )
+            }.padding()
         }
-        .navigationTitle("What's for Food")
+        .navigationTitle("Food Options")
     }
 }
 
