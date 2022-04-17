@@ -10,6 +10,7 @@ Students already have to navigate through college and the current layout of usef
 We created both an IOS app and website that allows for a convenient way to bring all the information a student would need on a daily basis as well as provides a simple and new user-friendly interface that's easy to navigate.
 
 # Final Project Links
+- Presentation: https://prezi.com/view/QD2h0yZldGnCN8WtDpvq/
 - App: https://github.com/leoredivo/HackDavis2022
 - Site: https://github.com/elizabeth-hernandez-galvan/HackDavis2022
    - View: https://hackdavis2022.elizabeth-herna.repl.co/index.html
